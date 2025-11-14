@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "d1d9d003f5def1db",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9a31d51efcc942d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3086bffa97b732c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trival-ml/attention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaa3de72727850b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "变格.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "927f033fce72e455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trival-pc/dynamic-partitioning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "5e5479155146c327"
+          },
+          {
+            "id": "284b6061a6609e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "变格.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbfb2d00faf09b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "provement of normal forms of subgroups of the addtive group of integers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feaa1e5ac8b1e2b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proposition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "115a58a77d4017ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8fc26ced6bce8b8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "trival-pc/dynamic-partitioning.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.4248043566298385,
+                  "close": true
+                }
+              }
+            },
+            "group": "5e5479155146c327"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13371c140c014019",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0819056a3dfcc057",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "307b126089a90a8c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8fc96c17de9bbfc0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "bd3d9eac7aff97b9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "23f69558aac36444",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e52dc4174f9b160e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "proposition.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "32c7729ec308ef4f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "proposition.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "906b0b956d20715f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "proposition.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0819056a3dfcc057",
+  "lastOpenFiles": [
+    "provement of normal forms of subgroups of the addtive group of integers.md",
+    "proposition.md",
+    "变格.md",
+    "trival-computer-network/TCP-IP.md",
+    "trival-algorithm",
+    "asset/tcp-ip-set.png",
+    "asset",
+    "trival-computer-network/arp-protocol.md",
+    "trival-pc/dynamic-partitioning.md",
+    "trival-ml/binning-algo.md",
+    "trival-thoughts/middle-layer-thoughts.md",
+    "trival-computer-network/computer-network.md",
+    "trival-pc/segmentation-with-paging.md",
+    "trival-thoughts/standardizing-units.md",
+    "trival-pc/history-of-memory-allocation.md",
+    "trival-pc/paging.md",
+    "全链路.md",
+    "hello.md",
+    "tm30.md",
+    "switch.md",
+    "trival-pc",
+    "trival-pc/segmentation.md",
+    "trival-ml/gradient.md",
+    "trival-ml/history-of-attention.md",
+    "trival-ml/attention.md",
+    "参数自适应调整.md",
+    "trival-ml",
+    "rls.md",
+    "mel-DER.md",
+    "beta-VAE.md",
+    "AiC Algorithm.md",
+    "trival-physics",
+    "trival-deutsch",
+    "trival-data-structure",
+    "trival-computer-network",
+    "trival-thoughts"
+  ]
+}

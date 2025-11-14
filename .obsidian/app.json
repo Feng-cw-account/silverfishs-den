@@ -1,0 +1,25 @@
+{
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-table",
+    "editor:toggle-checklist-status",
+    "editor:toggle-blockquote",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:configure-toolbar",
+    "editor:fold-all",
+    "editor:unfold-all"
+  ],
+  "promptDelete": false
+}
