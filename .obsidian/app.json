@@ -21,5 +21,6 @@
     "editor:fold-all",
     "editor:unfold-all"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": false
 }
