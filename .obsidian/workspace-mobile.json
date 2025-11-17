@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trival-ml/index/LLM-fine-tuning.md",
+                "file": "normal form of provement of sets' equality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "trival-ml/index/LLM-fine-tuning.md",
+            "file": "normal form of provement of sets' equality.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "trival-ml/index/LLM-fine-tuning.md",
+            "file": "normal form of provement of sets' equality.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "trival-ml/index/LLM-fine-tuning.md"
+            "file": "normal form of provement of sets' equality.md"
           }
         }
       }
@@ -133,8 +133,12 @@
   },
   "active": "feaa1e5ac8b1e2b4",
   "lastOpenFiles": [
-    "trival-ml/Reparameterization-based-PEFT.md",
+    "trivial-algebra/The Cyclic Decomposition Theorem for Subgroups of (ℤ, +).md",
+    "normal form of provement of sets' equality.md",
+    "trivial-algebra",
+    "未命名",
     "trival-ml/index/LLM-fine-tuning.md",
+    "trival-ml/Reparameterization-based-PEFT.md",
     "LoRA.md",
     "trival-ml/PEFT.md",
     "asset/p-tuning.jpg",
@@ -144,9 +148,8 @@
     "asset/LoRA.jpg",
     "trival-ml/FFT.md",
     "trival-ml/full-fine-tuning.md",
-    "provement of normal forms of subgroups of the addtive group of integers.md",
     "变格.md",
-    "trival-pc/dynamic-partitioning.md",
+    "trivial-pc/dynamic-partitioning.md",
     "trival-ml/attention.md",
     "trival-ml/RLHF.md",
     "asset/RLHF-process.jpg",
@@ -155,25 +158,23 @@
     "未命名.canvas",
     "README.md",
     "trival-computer-network/TCP-IP.md",
-    "trival-algorithm",
+    "trivial-algorithm",
     "asset/tcp-ip-set.png",
     "asset",
     "trival-computer-network/arp-protocol.md",
     "trival-ml/binning-algo.md",
-    "trival-thoughts/middle-layer-thoughts.md",
+    "trivial-thoughts/middle-layer-thoughts.md",
     "trival-computer-network/computer-network.md",
-    "trival-pc/segmentation-with-paging.md",
-    "trival-thoughts/standardizing-units.md",
-    "trival-pc/history-of-memory-allocation.md",
-    "trival-pc/paging.md",
+    "trivial-pc/segmentation-with-paging.md",
+    "trivial-thoughts/standardizing-units.md",
+    "trivial-pc/history-of-memory-allocation.md",
+    "trivial-pc/paging.md",
     "全链路.md",
     "hello.md",
-    "trival-pc",
+    "trivial-pc",
     "trival-ml",
     "trival-physics",
     "trival-deutsch",
-    "trival-data-structure",
-    "trival-computer-network",
-    "trival-thoughts"
+    "trival-data-structure"
   ]
 }
