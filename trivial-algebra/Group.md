@@ -4,6 +4,6 @@
 -  a [[Monoid]] having:
 	- [[Inverse|Inverses]]
 ## instance
-- [[addition group]]
+- [[Addition Group]]
 
 

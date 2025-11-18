@@ -11,11 +11,11 @@ $$
 
 ## conclusion
 **therefore**, 
-based on [[The Cyclic Decomposition Theorem for Subgroups of (ℤ, +)]],
+based on [[The Cyclic Decomposition Theorem for Subgroups of Addition Group]],
 we know that:
-$$\exists r, s.t. \mathbf{Z}r = \mathbf{Z}a + \mathbf{Z}b$$
+$$\exists d, s.t. \mathbf{Z}d = \mathbf{Z}a + \mathbf{Z}b$$
 and:$$
-	r = \text{gcd}(a,b)
+	d = \text{gcd}(a,b) \quad \text{\\\\why d is the gdc?}
 	$$
 then:$$
 	\begin{align}
@@ -26,5 +26,15 @@ then:$$
 	$$
 
 
+## why d is the gcd
+### d is divisor
+$a = k_1 d$, $b = k_2 d$
+## e divides d
+$e$ is any divisor of $a,b$.
+$d \in \mathbf{S}$, so $d=ra+sb$
+so $e$ divides $d$
+### conclusion
+$e$ and $d$ are positive, so $e<d$
+so d is gcd.
 
-	
+[[how to prove a element is greatest one in a set]]
