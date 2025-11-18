@@ -1,7 +1,7 @@
 #concept #math/algebra/abstract 
 
 ## defination
--  a [[monoid]] having:
+-  a [[Monoid]] having:
 	- [[Inverse|Inverses]]
 ## instance
 - [[addition group]]

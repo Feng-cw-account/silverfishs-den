@@ -8,4 +8,4 @@
 	- [[Closure]]
 	- [[Identity]]
 ## stronger concept
-- [[group]]
+- [[Group]]

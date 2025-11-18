@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "578ac1d03ff8c1f9",
+    "id": "4c4b2c3c969f9cf1",
     "type": "split",
     "children": [
       {
-        "id": "09c8787bb2afbfda",
+        "id": "04c35fd528c5d142",
         "type": "tabs",
         "children": [
           {
-            "id": "28b16124e8f09a53",
+            "id": "7b06ee4e83056443",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trival-ml/index/LLM-fine-tuning.md",
+                "file": "Deutsch/Declension of Deutsch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM-fine-tuning"
-            }
-          },
-          {
-            "id": "9b080773c74f877d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trival-ml/content/SFT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SFT"
+              "title": "Declension of Deutsch"
             }
           }
-        ]
         ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a20f9d1701012c93",
+    "id": "af540eefef8d5fd8",
     "type": "split",
     "children": [
       {
-        "id": "4688b976cf982532",
+        "id": "1200b1261b2786da",
         "type": "tabs",
         "children": [
           {
-            "id": "897bf94a467fcded",
+            "id": "951fccb976ad17cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +48,12 @@
             }
           },
           {
-            "id": "fcbdef28c62b5bcd",
+            "id": "f9bb91afb6c3521e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concept",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "3fe77b291f87ff17",
+            "id": "13fb649633ab9a97",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ceadf9f8b912a5c2",
+    "id": "0f4ea99b465a1b56",
     "type": "split",
     "children": [
       {
-        "id": "1ca4a9cee4687298",
+        "id": "01dd4a3bd2b07d5a",
         "type": "tabs",
         "children": [
           {
-            "id": "cb367a965f59aacc",
+            "id": "bb585be1112f2d2a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deutsch/Declension of Deutsch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Declension of Deutsch"
             }
           },
           {
-            "id": "f881b1843dee013e",
+            "id": "60672ac1323cfd39",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "变格.md",
+                "file": "Deutsch/Declension of Deutsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 变格"
+              "title": "Outgoing links from Declension of Deutsch"
             }
           },
           {
-            "id": "0cf3b66ff9a370a9",
+            "id": "f01096bae1066e88",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,25 +137,26 @@
             }
           },
           {
-            "id": "2dd3d7840da8487f",
+            "id": "87fcb3266a9df077",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "变格.md",
+                "file": "Deutsch/Declension of Deutsch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 变格"
+              "title": "Outline of Declension of Deutsch"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,40 +169,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "b0ab1dd5fbc57e6b",
+  "active": "7b06ee4e83056443",
   "lastOpenFiles": [
-    "trival-ml/content/SFT.md",
-    "trival-ml/index/LLM-fine-tuning.md",
-    "provement of normal forms of subgroups of the addtive group of integers.md",
-    "proposition.md",
-    "trival-physics/content/Coulomb's Force.md",
-    "trival-computer-network/content/arp-protocol.md",
-    "trival-physics/content",
-    "trival-physics/index",
-    "trival-data-structure/content/Graph structure.md",
-    "trival-computer-network/content",
-    "trival-computer-network/index",
-    "trivial-pc/content/segmentation-with-paging.md",
-    "trival-data-structure/content",
-    "trival-data-structure/index",
-    "trivial-pc/content/dynamic-partitioning.md",
-    "trival-ml/content/attention.md",
-    "trivial-pc/content",
-    "trivial-pc/index",
-    "trival-ml/content",
-    "变格.md",
-    "trival-ml/LLM-fine-tuning.md",
-    "trival-ml/content/RLHF.md",
-    "trival-ml/content/Reparameterization-based-PEFT.md",
-    "trival-ml/history-of-attention.md",
-    "trival-ml/content/full-fine-tuning.md",
-    "trival-ml/content/binning-algo.md",
-    "trival-physics/content/Electric Dipole.md",
-    "trival-physics/content/Electric Field.md",
-    "trival-physics/content/Electric Field Line.md",
-    "trival-physics/content/Electric Field Magnitude.md",
-    "trival-ml/content/FFT.md",
+    "trivial-algebra/Untitled.md",
+    "Deutsch/Declension of Deutsch.md",
+    "trivial-trivial",
+    "Deutsch",
+    "trivial-algebra/Subset of (ℤ, +), generated by a and b.md",
+    "trivial-algebra/Monoid.md",
+    "trivial-algebra/normal form of provement of sets' equality.md",
     "README.md",
-    "trival-ml/content/PEFT.md"
+    "trivial-algebra/Group.md",
+    "trivial-trivial/docker-for-ship.md",
+    "trivial-thoughts/standardizing-units.md",
+    "trival-computer-network/index/structure-of-computer-network.md"
   ]
 }
