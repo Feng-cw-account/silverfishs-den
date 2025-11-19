@@ -1,4 +1,4 @@
-#entity/abstract #computer-science 
+#entity/abstract #cs
 ## 4 layers
 ![[tcp-ip-set.png]]
 ## typical process

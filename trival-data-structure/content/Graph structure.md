@@ -1,4 +1,4 @@
-#entity/virtual #computer-science 
+#entity/virtual #cs 
 ## define
 idn
 ## interest

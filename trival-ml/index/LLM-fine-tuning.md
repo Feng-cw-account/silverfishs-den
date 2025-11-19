@@ -1,4 +1,4 @@
-#computer-science/deep-learning #technique/tmp
+#cs/deep-learning #technique/tmp
 
 ## define
 modify the weight of LLM, to suit down-stream tasks.usually for specific input/output format, but sometime for new knowledge (a system, rather the some facts).
