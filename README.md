@@ -1,3 +1,29 @@
-# README
-## description
-that is my kownledge vault.
+---
+tags:
+  - type/moc
+  - meta/system
+aliases:
+  - Zettelkasten Guide
+---
+
+# 🗺️ Zettelkasten 笔记法操作指南
+
+> [!SUMMARY] 核心理念
+> 笔记不是为了存储，而是为了**思考**。
+> 通过**原子化**的记录和**网状**的链接，让知识库成为你的对话伙伴。
+
+## 🚀 快速开始
+1.  查看 [[100 Zettelkasten 工作流]] 了解如何从输入到输出。
+2.  查阅 [[200 标签体系字典]] 查找应该打什么标签。
+3.  参考示例：
+    - [[301 示例 - 文献笔记 (Input)]]
+    - [[302 示例 - 永久笔记 (Output)]]
+
+## 🧠 核心原则
+- **原子化 (Atomicity)**：一卡一事。
+- **自下而上 (Bottom-up)**：先写卡片，再涌现结构。
+- **连接优于分类**：不要纠结文件夹，用 `[[]]` 建立联系。
+
+## 🛠️ 待办事项
+- [ ] 安装 Templater 插件并配置模板。
+- [ ] 在 `00_Inbox` 文件夹尝试写第一条笔记。
