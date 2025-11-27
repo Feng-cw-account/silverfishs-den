@@ -34,7 +34,10 @@ $$
 \end{align}
 $$
 
-
+## property
+1. [[Mutiplicative function]]
 ---
 ## **related**：
 [[Code implement of Euler's totient function]]
+
+[[code that should be print]]
