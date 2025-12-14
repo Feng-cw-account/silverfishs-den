@@ -7,7 +7,7 @@ tags:
 ---
 
 ## define
-$\forall a \in N$, if $g$ is in $G$, then $gag^{-1} \in N$
+$\forall a \in N$, if $g$ is in $G$, then the [[Conjugate]] $gag^{-1} \in N$
 
 
 
